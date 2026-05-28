@@ -1,85 +1,152 @@
-# 👋 Hi, I'm Ashutosh Ojha
+# Hi there 👋 I'm Ashutosh Ojha
 
-🚀 **DevOps Engineer | CI/CD Expert | Docker & Kubernetes Enthusiast | Cloud Automation Specialist**
+<div align="center">
 
-I’m a results-driven DevOps Engineer with over 3.5 years of hands-on experience building automated infrastructure, scalable CI/CD pipelines, and containerized deployments. I thrive on optimizing software delivery processes and ensuring high-availability systems through intelligent monitoring and orchestration.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+%7C+Cloud+Engineer;AWS+Certified+Solutions+Architect;Kubernetes+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Production+Systems;Automation+Enthusiast+%7C+Linux+Lover" alt="Typing SVG" />
 
----
-
-## 🛠️ Core Specializations
-
-* ✅ **CI/CD Pipeline Architecture** – Jenkins, AWS CodePipeline, CodeDeploy
-* 🐳 **Containerization** – Docker, Docker Compose, Kubernetes (K8s)
-* ⚙️ **Infrastructure as Code** – Ansible, Terraform
-* ☁️ **Cloud Infrastructure** – AWS (EC2, S3, Lambda, IAM, SSM, CloudWatch)
-* 📦 **Monitoring & Observability** – Prometheus, Grafana, AlertManager
-* 💻 **Linux System Administration** – Automation scripts, patching, log rotation
-* 🔄 **Scripting & Automation** – Bash, Shell scripts
-* 📂 **Version Control** – Git, GitHub
-* 📋 **Project Tracking** – Jira
+</div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-### 🔁 CI/CD Automation
-
-* Designed and deployed scalable CI/CD pipelines using Jenkins, integrating testing, deployment, and rollback strategies
-* Automated deployments for containerized apps on Kubernetes clusters
-
-### 🐳 Docker & Kubernetes
-
-* Dockerized legacy applications and enabled consistent build environments
-* Automated Kubernetes deployments with Helm and kubectl, enabling zero-downtime updates
-
-### ☁️ Cloud Infrastructure & Automation
-
-* Led migration of 200+ servers from on-prem to AWS with secure automation using SSM and Ansible
-* Wrote Ansible playbooks for application deployment, service hardening, and patch automation
-
-### 📊 Monitoring & Alerts
-
-* Configured Prometheus + Grafana dashboards to visualize real-time infra metrics
-* Implemented AlertManager with proactive email notifications to reduce incident response time
+🔹 DevOps & Cloud Engineer with **4+ years of experience** designing, automating, and managing large-scale production infrastructure.
+🔹 Currently working at **TCS** on one of India's largest government e-commerce platforms (**GeM**).
+🔹 Experienced in **AWS, Kubernetes, Docker, CI/CD, Linux Administration, Automation, and Monitoring**.
+🔹 Passionate about building **highly available, scalable, and automated cloud-native systems**.
+🔹 Strong focus on **Infrastructure Automation, Platform Reliability, and DevOps Best Practices**.
 
 ---
 
-## 📈 Key Achievements
+## 🛠️ Tech Stack
 
-* 🚀 Reduced deployment time by **70%** through automation
-* 🐳 Containerized multiple applications and deployed them to Kubernetes with seamless rollouts
-* 🔁 Migrated **200+ production servers** to AWS with zero data loss
-* 📊 Established enterprise-grade observability across infrastructure using Prometheus and Grafana
-* ✅ Built auto-scaling pipelines with rollback & approval strategies using Jenkins and AWS CodePipeline
+<div align="center">
 
-## 💼 Professional Experience
+### ☁️ Cloud & Infrastructure
 
-### 🏢 Tata Consultancy Services — *DevOps Engineer*
+<img src="https://skillicons.dev/icons?i=aws" />
 
-*Jul 2023 – Present | New Delhi*
+### ⚙️ DevOps & Automation
 
-* Built and maintained multiple Jenkins-based CI/CD pipelines
-* Automated full-stack deployments and server management using Ansible + AWS SSM
-* Migrated 200+ legacy servers to AWS with monitoring overhaul
+<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,githubactions" />
 
-### 🏢 Tata Consultancy Services — *Linux Administrator*
+### 💻 Programming & Scripting
 
-*Aug 2021 – Jun 2023 | New Delhi*
+<img src="https://skillicons.dev/icons?i=python,bash" />
 
-* Scripted housekeeping, patch automation, and log management
-* Provided 24/7 support and user management for Linux-based infrastructure
-* Administered Jira for project workflows and user access
+### 🐧 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+
+### 📊 Monitoring & Observability
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,maven" />
+
+</div>
 
 ---
 
-## 📂 Projects
+## 💼 Professional Highlights
 
-### 🔧 CI/CD Pipeline Architecture
+✨ Reduced deployment time by **80%** using Jenkins Shared Libraries and CI/CD standardization.
+✨ Migrated **200+ servers** from on-premise infrastructure to AWS with **zero data loss**.
+✨ Managed production systems with **99.99% uptime** supporting millions of users.
+✨ Automated operational tasks using **Ansible, Bash, and Python**, reducing manual effort by **70%**.
+✨ Resolved **200+ production incidents** under strict SLA timelines.
 
-**Tech Stack:** Jenkins, Docker, K8s, AWS CodePipeline
-**Impact:** Weekly automated deployments with rollback & quality gates
+---
 
-### ☁️ Cloud Migration & Monitoring
+## 📌 Featured Projects
 
-**Tech Stack:** AWS EC2, SSM, Prometheus, Grafana, Ansible
-**Impact:** Improved scalability and reduced manual int
+### 🔹 End-to-End DevOps Automation Pipeline
+
+* Automated complete deployment lifecycle using **Git, Jenkins, Docker, Ansible, and Kubernetes**
+* Integrated CI/CD workflows from code commit to production rollout
+
+### 🔹 Containerized Microservices Platform
+
+* Containerized applications using **Docker**
+* Deployed workloads on **Kubernetes**
+* Integrated **Prometheus + Grafana** for observability
+
+### 🔹 AWS Production Deployment
+
+* Designed and deployed startup production infrastructure using:
+
+  * AWS Elastic Beanstalk
+  * RDS MySQL
+  * Auto Scaling
+  * Secure Networking
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutoshojha18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshojha18&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashutoshojha18&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshojha18&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+✅ AWS Certified Solutions Architect – Associate
+✅ Complete DevOps with Real-Time Projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ashutoshojha18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ashutoshojha18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ashutoshojha18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Automate Everything. Scale Fearlessly. Ship Reliably."
+
+<img src="https://komarev.com/ghpvc/?username=ashutoshojha18&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
